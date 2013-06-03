@@ -1,5 +1,13 @@
 	
-	Allows jasmine.async to be used in Node.js and jasmine-node
+	Allows jasmine.async to be used in Node.js as an NPM module.
+
+
+#Install: 
+
+		npm install jasmine.async
+
+
+#Usage: 
 
 	var AsyncSpec = require('jasmine.async')(jasmine);
 
