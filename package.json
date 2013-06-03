@@ -1,6 +1,7 @@
 {
   "name": "jasmine-async",
   "version": "0.0.1",
+  "main": "jasine.async.node.js",
   "author": "Simon McManus",
   "description": "Modified http://github.com/derickbailey/jasmine.async to work with node.js/ node-jasmine.",
   "repository": {
